@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "JSON-Server",
+      "author": "Amit"
+    },
+    {
+      "id": "2",
+      "title": "Node.js",
+      "author": "Mohit"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "Great post!",
+      "postId": 1
+    },
+    {
+      "id": "2",
+      "body": "Informative!",
+      "postId": 2
+    }
+  ],
+  "profile": {
+    "name": "Amit Kumar"
+  },
+  "userObject": [
+    {
+      "userName": "pradip",
+      "password": "K",
+      "id": "be00"
+    },
+    {
+      "userName": "shreya",
+      "password": "Karanjikar",
+      "id": "ac12"
+    },
+    {
+      "id": "6aaf",
+      "username": "sandip",
+      "password": "123234345"
+    }
+  ]
+}
